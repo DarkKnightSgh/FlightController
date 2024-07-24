@@ -8,7 +8,7 @@ Microcontroller : Handles real-time stabilization using sensor inputs and contro
 
 Companion Computer : Manages high-level tasks such as navigation, communication with ground stations, and additional sensor processing. (Not Implemented)
 
-### Key Functions**
+### Key Functions:
 setup(): Initializes the quadcopter's sensors, motors, and other peripherals.
 loop(): Continuously runs the stabilization control loop.
 
