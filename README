@@ -1,4 +1,4 @@
-**Custom Quadcopter Flight Controller**
+###Custom Quadcopter Flight Controller
 
 This project implements a custom flight controller for a quadcopter using a microcontroller for stabilization tasks and a companion computer for high-level tasks. This separation ensures efficient real-time control and flexibility for advanced features.
 
